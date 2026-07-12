@@ -1,0 +1,40 @@
+site_name: Unminal Engine Docs
+site_url: https://dov1ntc.github.io/unminal-wiki/
+repo_url: https://github.com/Dov1ntc/unminal-wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    # Темная тема по умолчанию
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: getting-started/installation.md
+  - Core Systems:
+      - Commands: core/commands.md
+  - Rendering:
+      - Shaders: render/shaders.md
+  - UI:
+      - Console: ui/console.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
