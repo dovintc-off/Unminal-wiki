@@ -5,8 +5,9 @@ on:
     branches:
       - main
     paths:
-      - 'docs/**
+      - 'docs/**'      # <-- ИСПРАВЛЕНО: добавлена закрывающая кавычка
       - 'mkdocs.yml'
+  workflow_dispatch:   # <-- ДОБАВЛЕНО: чтобы можно было запустить вручную для теста
 
 permissions:
   contents: write
