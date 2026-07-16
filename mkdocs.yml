@@ -1,12 +1,10 @@
 site_name: Unminal Engine Docs
-site_url: https://dov1ntc.github.io/unminal-wiki/
-repo_url: https://github.com/Dov1ntc/unminal-wiki
+repo_url: https://github.com/dovintc-off/Unminal-Engine
 edit_uri: edit/main/docs/
 
 theme:
   name: material
   palette:
-    # Темная тема по умолчанию
     - scheme: slate
       toggle:
         icon: material/brightness-4
