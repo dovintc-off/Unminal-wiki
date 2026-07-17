@@ -11,10 +11,10 @@
 ### 🗺️ Features
 1. Import objects with textures (UV system) *
 2. Update Text Renderer *\*
-3. Update Graphics
-3.1 Shape Refactoring: reduction of creation in scripts *\*\*
-3.2 Light Refactoring: creating a separate object *\*\*\*
-4. Implement AABB collision (at beginning only with built-in shapes) *\*\*\*\*
+3. Update Graphics <br>
+3.1 Shape Refactoring: reduction of creation in scripts *\*\* <br>
+3.2 Light Refactoring: creating a separate object *\*\*\* <br>
+4. Implement AABB collision (at beginning only with built-in shapes) *\*\*\*\* 
 5. Create water object (visually, without collision) *\*\*
 6. Particles *\*
 
