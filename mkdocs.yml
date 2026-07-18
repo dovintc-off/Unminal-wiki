@@ -21,15 +21,37 @@ theme:
 
 nav:
   - Home: index.md
-  - Installation: getting-started/installation.md
-  - Core Systems:
-      - Commands: core/commands.md
-  - Rendering:
-      - Shaders: render/shaders.md
-  - UI:
+  - Installation: installation.md
+  - Architecture:
+    - Main: core/main.md
+    - Core Systems:
+      - Commands: 
+        - Executed Methods: core/commands/executed_methods.md
+        - Class Commands: core/commands/structure.md
+      - Camera: core/camera.md
+      - Object Loader: core/obj_loader.md
+      - Engine Values: core/state.md
+    - Rendering:
+      - Primitive Shapes:
+        - Primitive: render/primitive/primitive.md
+        - Square: render/primitive/square.md
+      - Mesh: render/mesh_class.md
+      - Objects: render/obj_class.md
+      - Shader Program: render/shader.md
+      - Sky Box: render/sky_box.md
+    - UI:
       - Console: ui/console.md
+      - Text Renderer:
+        - Renderer: ui/text/renderer.md
+        - Rich Text: ui/text/rich.md
+    - Scripts:
+      - Scripts: scripts/script.md
+    - Utils:
+      - Config: utils/config.md
 
 markdown_extensions:
+  - admonition
+  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.superfences
