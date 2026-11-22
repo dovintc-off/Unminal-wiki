@@ -43,6 +43,8 @@ plugins:
         - locale: en
           name: English
           default: true
+          link: /Unminal-wiki/
 
         - locale: ru
           name: Русский
+          link: /Unminal-wiki/ru/
