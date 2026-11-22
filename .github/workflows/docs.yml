@@ -35,6 +35,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       
-      - run: pip install mkdocs-material
+      - name: Install dependencies
+        run: pip install mkdocs-material mkdocs-static-i18n
       
       - run: mkdocs gh-deploy --force
