@@ -1,6 +1,7 @@
 site_name: Unminal Engine Docs
 repo_url: https://github.com/dovintc-off/Unminal-Engine
 edit_uri: edit/main/docs/
+site_url: https://dovintc-off.github.io/Unminal-wiki/
 
 theme:
   name: material
