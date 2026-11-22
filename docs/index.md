@@ -2,23 +2,21 @@
 
 ---
 
-### **Unminal Engine — Freedom to Will, Freedom to Act**
-* The engine **doesn't dictate rules**; it hands you the tools to **bring your vision** to life. From a **flexible console system** to **rendering control** — there are no restrictions here, only possibilities.
+### **Unminal Engine - Freedom to Will, Freedom to Act**
+* The engine **doesn't dictate rules**; it hands you the tools to **bring your vision** to life.
 * Help us keep this spirit alive: **star the repo** and **watch Unminal evolve!**
-* A simple, open-source 3D game engine built from scratch in C# using OpenTK.
+* Open-source 3D game engine built from scratch in C# using OpenTK.
 
 ---
 
 ## About Project
 
 ### Features
-1. Import objects with textures (UV system)
+1. Import objects with textures (UV mapping)
 2. Update Graphics
-3. Shape Refactoring: reduction of creation in scripts
-4. Light Refactoring: creating a separate object
-5. Implement AABB collision (at beginning only with built-in shapes)
-6. Create water object (visually, without collision)
-7. Particles
+3. Implement AABB collision (at beginning only with built-in shapes)
+4. Create water surfaces (visually, without collision)
+5. Particles
 
 ---
 

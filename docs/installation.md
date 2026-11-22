@@ -31,11 +31,11 @@ cd Unminal-Engine
 
 5. __Remember the path__ to the folder — you will need it to open the project in an IDE
 
-> 💡 __Advantage:__ Easy updates via `git pull`
+> __Advantage:__ Easy updates via `git pull`
 
 ---
 
-### Method 2: Download ZIP Archive 📥
+### Method 2: Download ZIP Archive
 
 A simple way to get started quickly without using Git.
 
@@ -55,7 +55,7 @@ A simple way to get started quickly without using Git.
 
 ---
 
-## 💻 Running and Editing Code
+## Running and Editing Code
 
 ### Recommended IDEs
 
@@ -74,25 +74,13 @@ If you choose VS Code, install the following extensions:
 3. __IntelliCode for C#__ — Enhanced IntelliSense suggestions
 4. __GitLens__ — Git integration (if using Method 1)
 
-> 💡 __Tip:__ For quick navigation, use `Ctrl + Click` to jump to method and class definitions.
+> __Tip:__ For quick navigation, use `Ctrl + Click` to jump to method and class definitions.
 
 ---
 
-## ▶️ First Run
+## First Run
 
 1. Open the project folder in your chosen IDE
 2. Wait for NuGet dependencies to restore
 3. Locate the solution file `.sln` or project file `.csproj`
 4. Press __F5__ or click the __"Run"__ button to start
-
----
-
-##  Having Issues?
-
-- 📖 Read the full [documentation](architecture.md)
-- Report a bug on [GitHub Issues](https://github.com/dovintc-off/Unminal-Engine/issues)
-
----
-
-!!! info Next Steps
-    After successful installation, check out the __[Engine Architecture](architecture.md)__ section to understand the project structure.

@@ -23,7 +23,7 @@ nav:
   - Home: index.md
   - Installation: installation.md
   - Lua Scripting:
-    - Lua object: scripting/Lua/LuaObject.md
+    - Lua: scripting/Lua/Lua.md
 
 markdown_extensions:
   - admonition
@@ -33,3 +33,15 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          name: English
+          default: true
+
+        - locale: ru
+          name: Русский
