@@ -1,59 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://dovintc-off.github.io/Unminal-wiki/</loc>
-        <lastmod>2026-11-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dovintc-off.github.io/Unminal-wiki/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://dovintc-off.github.io/Unminal-wiki/ru/"/>
+         <loc>https://dovintc-off.github.io/Unminal-wiki/</loc>
+         <lastmod>2026-11-27</lastmod>
     </url>
     <url>
-        <loc>https://dovintc-off.github.io/Unminal-wiki/installation/</loc>
-        <lastmod>2026-11-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dovintc-off.github.io/Unminal-wiki/installation/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://dovintc-off.github.io/Unminal-wiki/ru/installation/"/>
+         <loc>https://dovintc-off.github.io/Unminal-wiki/index.ru/</loc>
+         <lastmod>2026-11-27</lastmod>
     </url>
     <url>
-        <loc>https://dovintc-off.github.io/Unminal-wiki/scripting/CSharp/CSharp/</loc>
-        <lastmod>2026-11-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dovintc-off.github.io/Unminal-wiki/scripting/CSharp/CSharp/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://dovintc-off.github.io/Unminal-wiki/ru/scripting/CSharp/CSharp/"/>
+         <loc>https://dovintc-off.github.io/Unminal-wiki/installation/</loc>
+         <lastmod>2026-11-27</lastmod>
     </url>
     <url>
-        <loc>https://dovintc-off.github.io/Unminal-wiki/scripting/Lua/Lua/</loc>
-        <lastmod>2026-11-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dovintc-off.github.io/Unminal-wiki/scripting/Lua/Lua/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://dovintc-off.github.io/Unminal-wiki/ru/scripting/Lua/Lua/"/>
+         <loc>https://dovintc-off.github.io/Unminal-wiki/installation.ru/</loc>
+         <lastmod>2026-11-27</lastmod>
     </url>
     <url>
-        <loc>https://dovintc-off.github.io/Unminal-wiki/ru/</loc>
-        <lastmod>2026-11-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://dovintc-off.github.io/Unminal-wiki/ru/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dovintc-off.github.io/Unminal-wiki/"/>
+         <loc>https://dovintc-off.github.io/Unminal-wiki/scripting/CSharp/CSharp/</loc>
+         <lastmod>2026-11-27</lastmod>
     </url>
     <url>
-        <loc>https://dovintc-off.github.io/Unminal-wiki/ru/installation/</loc>
-        <lastmod>2026-11-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://dovintc-off.github.io/Unminal-wiki/ru/installation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dovintc-off.github.io/Unminal-wiki/installation/"/>
+         <loc>https://dovintc-off.github.io/Unminal-wiki/scripting/CSharp/CSharp.ru/</loc>
+         <lastmod>2026-11-27</lastmod>
     </url>
     <url>
-        <loc>https://dovintc-off.github.io/Unminal-wiki/ru/scripting/CSharp/CSharp/</loc>
-        <lastmod>2026-11-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://dovintc-off.github.io/Unminal-wiki/ru/scripting/CSharp/CSharp/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dovintc-off.github.io/Unminal-wiki/scripting/CSharp/CSharp/"/>
+         <loc>https://dovintc-off.github.io/Unminal-wiki/scripting/Lua/Lua/</loc>
+         <lastmod>2026-11-27</lastmod>
     </url>
     <url>
-        <loc>https://dovintc-off.github.io/Unminal-wiki/ru/scripting/Lua/Lua/</loc>
-        <lastmod>2026-11-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://dovintc-off.github.io/Unminal-wiki/ru/scripting/Lua/Lua/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://dovintc-off.github.io/Unminal-wiki/scripting/Lua/Lua/"/>
+         <loc>https://dovintc-off.github.io/Unminal-wiki/scripting/Lua/Lua.ru/</loc>
+         <lastmod>2026-11-27</lastmod>
     </url>
 </urlset>
